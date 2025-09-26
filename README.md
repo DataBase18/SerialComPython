@@ -1,4 +1,4 @@
-##🔌 SerialCOM Interface — Comunicación Serial en Python
+## SerialCOM Interface — Comunicación Serial en Python 🔌
 Es una aplicación sencilla escrita en Python que permite establecer comunicación serial con dispositivos conectados a puertos COM. Fue creada por necesidad en proyectos con microcontroladores PICAXE, módulos ESP WiFi, y Bluetooth HC-05, como alternativa libre al entorno de Arduino.
 
 ## 🎯 Funcionalidades principales
